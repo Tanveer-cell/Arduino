@@ -174,7 +174,7 @@ Change baudrate if needed.
 
 ---
 
-# 🔥 Example OLED Animation Code (SH1106)
+# 🔥 Example Titanic Animation Code (SH1106)
 
 ```cpp
 #include <Wire.h>
